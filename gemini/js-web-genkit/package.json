@@ -9,11 +9,11 @@
     "dependencies": {
         "@genkit-ai/googleai": "^0.9",
         "genkit": "^0.9",
-        "express": "^4.21.2"
+        "express": "^4.22.1"
     },
     "devDependencies": {
         "@types/express": "^4.17.13",
-        "genkit-cli": "^0.9",
+        "genkit-cli": "^1.31",
         "tsx": "^4.19.2",
         "typescript": "^5.6.3"
     },
